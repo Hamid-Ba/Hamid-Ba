@@ -6,7 +6,7 @@ Its hamid, computer engineer student in [The Univesity of shahid bahonar univers
 
 - :telescope: I’m working as a Backend Developer for building web applications.
  
-- :seedling: Exploring to be a Software Engineer
+- :seedling: Very Interested In Machine Learning and Data Science
  
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-balalzadeh)
   
